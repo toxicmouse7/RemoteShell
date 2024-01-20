@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\RemoteShellClient\\RemoteShellClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\Extensions.csproj",
+        "projectName": "Extensions",
+        "projectPath": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\Extensions.csproj",
+        "packagesPath": "C:\\Users\\Aleksej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aleksej\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/vocord/common/_packaging/All/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\RemoteShellClient\\RemoteShellClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\RemoteShellClient\\RemoteShellClient.csproj",
+        "projectName": "RemoteShellClient",
+        "projectPath": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\RemoteShellClient\\RemoteShellClient.csproj",
+        "packagesPath": "C:\\Users\\Aleksej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\RemoteShellClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aleksej\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/vocord/common/_packaging/All/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\Extensions.csproj": {
+                "projectPath": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\Extensions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

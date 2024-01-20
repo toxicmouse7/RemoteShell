@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteShellClient", "RemoteShellClient\RemoteShellClient.csproj", "{261FBB44-87A7-4EF1-8361-93DC46605D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteShellServer", "RemoteShellServer\RemoteShellServer.csproj", "{0484B2FC-C44A-45AE-ACF2-1227B3084BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{68279B90-9591-4220-A795-5EEAA06DE1E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261FBB44-87A7-4EF1-8361-93DC46605D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261FBB44-87A7-4EF1-8361-93DC46605D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261FBB44-87A7-4EF1-8361-93DC46605D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261FBB44-87A7-4EF1-8361-93DC46605D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0484B2FC-C44A-45AE-ACF2-1227B3084BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0484B2FC-C44A-45AE-ACF2-1227B3084BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0484B2FC-C44A-45AE-ACF2-1227B3084BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0484B2FC-C44A-45AE-ACF2-1227B3084BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68279B90-9591-4220-A795-5EEAA06DE1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68279B90-9591-4220-A795-5EEAA06DE1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68279B90-9591-4220-A795-5EEAA06DE1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68279B90-9591-4220-A795-5EEAA06DE1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
