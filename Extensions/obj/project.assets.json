@@ -8,26 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Aleksej\\.nuget\\packages\\": {}
+    "/Users/aleksejgladkov/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\Extensions.csproj",
+      "projectUniqueName": "/Users/aleksejgladkov/RiderProjects/RemoteShell/Extensions/Extensions.csproj",
       "projectName": "Extensions",
-      "projectPath": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\Extensions.csproj",
-      "packagesPath": "C:\\Users\\Aleksej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\obj\\",
+      "projectPath": "/Users/aleksejgladkov/RiderProjects/RemoteShell/Extensions/Extensions.csproj",
+      "packagesPath": "/Users/aleksejgladkov/.nuget/packages/",
+      "outputPath": "/Users/aleksejgladkov/RiderProjects/RemoteShell/Extensions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aleksej\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/aleksejgladkov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/vocord/common/_packaging/All/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -55,12 +54,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,3 @@
+/Users/aleksejgladkov/RiderProjects/RemoteShell/RemoteShellClient/bin/Release/net6.0/win-x64/publish/RemoteShellClient.pdb
+/Users/aleksejgladkov/RiderProjects/RemoteShell/RemoteShellClient/bin/Release/net6.0/win-x64/publish/Extensions.pdb
+/Users/aleksejgladkov/RiderProjects/RemoteShell/RemoteShellClient/bin/Release/net6.0/win-x64/publish/RemoteShellClient.exe

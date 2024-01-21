@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5xAyVcb63yEdDeqjszp6RptkWS4gzwMDbzks7WeTZgbfQY09Q5QgancGMO4oKlAdGCG9LzlUuia89pppOaEcDQ==",
+  "dgSpecHash": "Q4m7N/PVYj2+y3hD1CLQNapzcKt3mPvW1StnUGRfKVrXyHGpOYd48eS9b/gAdThuAOYKBfVbUJy5LFB1maJTTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\Extensions\\Extensions.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/aleksejgladkov/RiderProjects/RemoteShell/Extensions/Extensions.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleksejgladkov/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/aleksejgladkov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

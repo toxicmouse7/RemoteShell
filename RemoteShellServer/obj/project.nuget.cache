@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0CmFMeoKlKUL5kVo7R1q8LZPWUciq5n3wkQqDdhvgpMQP8UFXSuCKvb7PuvM/KHFlQU0UH4TZJA+lQuPfOreMw==",
+  "dgSpecHash": "4pxuVsYpVNx75+SO0nDb0rcdLrWsqnTM3M20A8gmffcUwqJuf7z1XAD9QRYNiA4DX9fau/MDk6A2OEFSg9YvnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksej\\RiderProjects\\RemoteShell\\RemoteShellServer\\RemoteShellServer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/aleksejgladkov/RiderProjects/RemoteShell/RemoteShellServer/RemoteShellServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleksejgladkov/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/aleksejgladkov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/aleksejgladkov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.25/microsoft.netcore.app.host.osx-arm64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
